@@ -1,0 +1,2 @@
+# maru
+Kiosk Game Maru
