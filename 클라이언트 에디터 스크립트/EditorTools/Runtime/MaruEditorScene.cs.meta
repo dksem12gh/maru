@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8250c1303893f4146839b2a4c287614d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MultiDisplayTouchManager: {fileID: 4335245054647896262, guid: 401343b438e287b46a04bcb2d07009e6,
+      type: 3}
+  - Cursors: {fileID: 100000, guid: c0dc5781cae4a6348b42ea6b818a3f9c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
