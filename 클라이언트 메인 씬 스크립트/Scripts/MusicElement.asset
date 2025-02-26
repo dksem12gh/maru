@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3344094e794c9904885bff8b29675023, type: 3}
+  m_Name: MusicElement
+  m_EditorClassIdentifier: 
+  musicList:
+  - _musicPathStr: _Asset/_Main/RandMusic/MM_01 Cry No More - Warak (Feat. Ruriling).ogg
+    _musicName: Cry No More
+    _atist: Warak
+    _level: 2
+    _musicNum: 0
+    _albumImg: {fileID: 21300000, guid: 23f19caf24164524bbdfeb2260f80689, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 29d57ab22c68f6b4382835bb3935193c, type: 3}
+  - _musicPathStr: _Asset/_Main/RandMusic/MM_02 Strange Encounter - Warak.ogg
+    _musicName: Strange Encounter
+    _atist: Warak
+    _level: 1
+    _musicNum: 1
+    _albumImg: {fileID: 21300000, guid: 351406ae36fed074ab241e47a8bc5397, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 2f617ca2c2082714291d66b26c7be5ba, type: 3}
+  - _musicPathStr: _Asset/_Main/RandMusic/MM_03 Feel the music - Slofinger.ogg
+    _musicName: Feel the music
+    _atist: Slofinger
+    _level: 2
+    _musicNum: 2
+    _albumImg: {fileID: 21300000, guid: d6288b11339de0247bc0f4498a71eeaf, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 04ad0bd4d180a8e43b5c8eb0aafdfe63, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_04 Sweet Escape - Being Romance (feat.\uC815\uC138\uBBF8).ogg"
+    _musicName: Sweet Escape
+    _atist: Being Romance
+    _level: 1
+    _musicNum: 3
+    _albumImg: {fileID: 21300000, guid: 745926e78a5082f4e9638f5b6f049ed6, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 84008969c4f78444993552ac7f58209e, type: 3}
+  - _musicPathStr: _Asset/_Main/RandMusic/MM_05 Tempest of nevohteeB - pjmomo.ogg
+    _musicName: Tempest of nevohteeB
+    _atist: pjmomo
+    _level: 3
+    _musicNum: 4
+    _albumImg: {fileID: 21300000, guid: 54b31d7cbbd488849941d4fe85ceec70, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: d37b880f607256548b44096f11baec4d, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: TIMELESS
+    _atist: Dr.Choi
+    _level: 3
+    _musicNum: 5
+    _albumImg: {fileID: 21300000, guid: a6e42345c42433a458d88e3a16fae4db, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: b50c49ac6172b6842a27a4f322080ad6, type: 3}
+  - _musicPathStr: _Asset/_Main/RandMusic/Lacrimosa - Dr.Choi.ogg
+    _musicName: Lacrimosa
+    _atist: Dr.Choi
+    _level: 2
+    _musicNum: 6
+    _albumImg: {fileID: 21300000, guid: 034af03ba1fd359449520bef589b87cc, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 171c6df99ca0d7f4d97166d307dfc65a, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Salut
+    _atist: Elgar
+    _level: 2
+    _musicNum: 7
+    _albumImg: {fileID: 21300000, guid: c37a86fd025d7b44c8479050deed4998, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: d28dfca82ea3ace40b1a4635df498b7b, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Cannon In D Piano
+    _atist: Pachelbel
+    _level: 5
+    _musicNum: 8
+    _albumImg: {fileID: 21300000, guid: 1487eb3b89ae79c41964f875afb64687, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 790fec99c5ec9fb4d9657a83daeacec1, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Nocturne No 2
+    _atist: Chopin
+    _level: 3
+    _musicNum: 9
+    _albumImg: {fileID: 21300000, guid: f0e0acb8753b74f42bef2e46a314dd93, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: c7155f266fbad064297c1143150b9de3, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Serenade
+    _atist: Schubert
+    _level: 4
+    _musicNum: 10
+    _albumImg: {fileID: 21300000, guid: 868c883aa7da2274e82f213b11c73239, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 8a462b2b79bd90443bffcacaf0039758, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Gymnopedie No1
+    _atist: Erik Satie
+    _level: 3
+    _musicNum: 11
+    _albumImg: {fileID: 21300000, guid: 5dc3b5c44542b7a4ab59975a7cee8fa9, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 1d66f286eb2818b478b5642a332e79d8, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: MoonlightSonata
+    _atist: Beethoven
+    _level: 3
+    _musicNum: 12
+    _albumImg: {fileID: 21300000, guid: ecf9d9ba0a4f21847872f11c90abdedb, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 90fb8dc939647e74381b0591eaaaae4b, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Air on the G String
+    _atist: Bach
+    _level: 5
+    _musicNum: 13
+    _albumImg: {fileID: 21300000, guid: 0ac72ef58f8e4c642b965a193c41d6f8, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 60e1c59ab22d7dc439149e1cf69b1711, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Love Dream
+    _atist: Liszt
+    _level: 5
+    _musicNum: 14
+    _albumImg: {fileID: 21300000, guid: 1c2339b2432f6ff4986687470b17f683, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 4e59bd39a8abe424f9e8452d9f1286dc, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Clair de Lune
+    _atist: Debussy
+    _level: 5
+    _musicNum: 15
+    _albumImg: {fileID: 21300000, guid: a2aa5d2dbef60f043a81de2a9bf1e6a3, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: 668daadb428466546b577139f7c8eee5, type: 3}
+  - _musicPathStr: "_Asset/_Main/RandMusic/MM_TIMELESS - Dr.Choi (\uBCFC\uB968up).ogg"
+    _musicName: Pathetique 2Mov
+    _atist: Beethoven
+    _level: 3
+    _musicNum: 16
+    _albumImg: {fileID: 21300000, guid: 219aeeb3daec88747b03aa6c52bd4afe, type: 3}
+    _voidLevelIcon: {fileID: 21300000, guid: 139da11691bf17d489b21cf24dc2344e, type: 3}
+    _fillLevelIcon: {fileID: 21300000, guid: b93c6677fbeb5d84d8a196b8c3dafeb4, type: 3}
+    _clip: {fileID: 8300000, guid: ba9761e0dcda6f04fb5014832e30edcd, type: 3}
